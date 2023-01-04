@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vincent Omondi Ogunde
-- 👀 I’m interested in Data Analytics, RESTFUL APIS, GraphQL APIs, Django, Machine Learning, Vuejs
-- 🌱 I’m currently learning Msc in Data Analytics majoring in Machine Learning and Data Engineering
-- 💞️ I’m looking to collaborate on open source projects that involves Django, Go, Vuejs, RESTFUL-APIs and GraphQL APIs
+- 👀 I’m interested in Data Science, RESTFUL APIS, GraphQL APIs, Django, Machine Learning, Vuejs, Solidity and Smart Contracts.
+- 💞️ I’m looking to collaborate on open source projects that involves Django, Go, Solidity,Vuejs, RESTFUL-APIs and GraphQL APIs
 - 📫 How to reach me vincentedepaulo@gmail.com
 
 <!---
